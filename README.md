@@ -8,13 +8,15 @@ mkdir <repo_name> \
 cd <repo_name> \
 git init <repo_name>
 
-then, add this repo to your github using GUI
+then, add this repo to your github using GUI. Go back to terminal:
 
-git remote add origin <insert https link to repo on github>
+git remote add origin <link to repo on github>
 
 to add/update files:
 
-create a file called file_name. then,...
+nano <file_name>
+
+then,...
 
 git add <file_name> \
 git commit \
