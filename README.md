@@ -22,5 +22,5 @@ git commit
 
 gut push -u origin master
 
-
+i just learned that if you make changes to git repo using GUI, you have to git pull the repository before pushing changes from terminal. 
 
