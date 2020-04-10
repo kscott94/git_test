@@ -10,7 +10,7 @@ git init <repo_name>
 
 then, add this repo to your github using GUI. Go back to terminal:
 
-git remote add origin <link to repo on github>
+git remote add origin <link_to_repo_on_github>
 
 to add/update files:
 
