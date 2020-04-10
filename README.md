@@ -6,7 +6,7 @@ today, i learned how to add and  update github repositories from the command lin
 to initialize a repo on your computer: \
 mkdir <repo_name> \
 cd <repo_name> \
-git init <repo_name> \
+git init <repo_name>
 
 then, add this repo to your github using GUI
 
