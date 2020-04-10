@@ -1,5 +1,5 @@
 author: kristin scott \
-test repo \
+test repo
 
 today, i learned how to add and  update github repositories from the command line. 
 
